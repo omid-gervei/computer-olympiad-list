@@ -14,7 +14,9 @@ m.hosSein.python
 f.miNa.C
 m.aHMad.C++
 f.Sara.java
+
 خروجی نمونه:
+
 
 f Mina C
 f Sara java
