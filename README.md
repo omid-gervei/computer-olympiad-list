@@ -10,15 +10,22 @@ This is a simple program written in python language. the description has been wr
 ورودی نمونه:
 
 4
+
 m.hosSein.python
+
 f.miNa.C
+
 m.aHMad.C++
+
 f.Sara.java
 
 خروجی نمونه:
 
 
 f Mina C
+
 f Sara java
+
 m Ahmad C++
+
 m Hossein python
